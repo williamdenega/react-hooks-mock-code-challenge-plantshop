@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Baby",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Klara_Hitler.jpg/220px-Klara_Hitler.jpg",
+      "price": "121.1",
+      "id": 11
+    },
+    {
+      "name": "roger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
+      "price": "121",
+      "id": 12
     }
   ]
 }
